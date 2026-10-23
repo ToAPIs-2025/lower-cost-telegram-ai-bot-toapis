@@ -26,4 +26,6 @@ gpt-image-2(VIP) · low / 1K：**$0.0019/image**。本张报价 $0.0019，实扣
 
 Image price is a Key-scoped quotation; do not treat the missing settlement as zero. Video is .com `billing=settled`; $/s = this settled cost / decoded duration. Token rates are not flat per-second tariffs.
 
-[模型落地页与归因](https://go2v.toapis.com/1023_tg)
+[注册与邀请归因](https://toapis.com/login?aff=BEWR)
+
+[Model API reference](https://docs.toapis.com/docs/cn/api-reference/images/gpt-image-2-vip/generation)

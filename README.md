@@ -36,4 +36,6 @@ Image price is a Key-scoped quotation; do not treat the missing settlement as ze
 
 [Integration details and acceptance checklist](integration/README.md) · [Attribution and inspected source](UPSTREAM.md).
 
-[ToAPIs model page](https://go2v.toapis.com/1023_tg)
+[Register at ToAPIs](https://toapis.com/login?aff=BEWR)
+
+[Model API reference](https://docs.toapis.com/docs/cn/api-reference/images/gpt-image-2-vip/generation)
