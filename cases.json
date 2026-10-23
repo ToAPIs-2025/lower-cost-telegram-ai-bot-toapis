@@ -1,0 +1,31 @@
+[
+  {
+    "date": "2026-10-23",
+    "site": "com",
+    "model": "gpt-image-2-vip",
+    "display_model": "gpt-image-2(VIP)",
+    "kind": "image",
+    "parameters": {
+      "model": "gpt-image-2-vip",
+      "n": 1,
+      "size": "1:1",
+      "resolution": "1K",
+      "quality": "low"
+    },
+    "file": "assets/gpt-image-2-vip-0f4680bb4a.png",
+    "width": 1024,
+    "height": 1024,
+    "actual_cost_usd": null,
+    "billing_status": "unavailable",
+    "quoted_usd_per_request": "0.0019",
+    "quote_unit_price": "0.0019",
+    "quote_unit": "request",
+    "seconds": null,
+    "actual_usd_per_second": null,
+    "usage": {
+      "charge_type": "per_request",
+      "requests": 1
+    },
+    "native_application_verified": false
+  }
+]
